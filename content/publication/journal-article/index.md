@@ -1,16 +1,17 @@
 ---
-title: "An example journal article"
+title: "Global Three-Dimensional Draping of Magnetic Field Lines in Earth's Magnetosheath From In-Situ Spacecraft Measurement"
 authors:
+- Bayane Michotte de Welle
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- Gautier Nguyen
+- Benoit Lavraud
+- Vincent Génot
+- Alexis Jeandet
+- Roch Smets
+
+date: "2023-03-26T00:00:00Z"
 doi: ""
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,13 +20,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Journal of Geophysical Research*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Magnetic field draping occurs when the magnetic field lines frozen in a plasma flow wrap around a body or plasma environment. The draping of the interplanetary magnetic field (IMF) around the Earth's magnetosphere has been confirmed in the early days of space exploration. However, its global and three-dimensional structure is known from modeling only, mostly numerical. Here, this structure in the dayside of the Earth's magnetosheath is determined as a function of the upstream IMF orientation purely from in-situ spacecraft observations. We show the draping structure can be organized in three regimes depending on how radial the upstream IMF is. Quantitative analysis demonstrates how the draping pattern results from the magnetic field being frozen in the magnetosheath flow, deflected around the magnetopause. The role of the flow is emphasized by a comparison of the draping structure to that predicted to a magnetostatic draping. 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: The Global 3D Magnetic field draping around the Earth's magnetosphere is reconstructed from in situ spacecraft observations 
 
 tags:
 - Source Themes
@@ -34,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JA030996
 url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''
 url_poster: ''
