@@ -2,7 +2,8 @@
 # Leave the homepage title empty to use the site title
 title: Nicolas Aunai
 date: 2022-10-24
-type: landing
+type: landing_page
+headless: true
 
 sections:
  #- block: hero
@@ -27,18 +28,18 @@ sections:
  #      gradient_end: '#1976d2'
  #      gradient_start: '#004ba0'
  #      text_color_light: true
-# - block: about.avatar
-#   id: about
-#   content:
-#     # Choose a user profile to display (a folder name within `content/authors/`)
-#     username: admin
-#     # Override your bio text from `authors/admin/_index.md`?
-#     text: I am a researcher at CNRS working at the Laboratory of Plasma Physics (LPP), in 
-#           Palaiseau, France. My field of research is space plasma physics, and in particular the
-#           phenomenon of Magnetic Reconnection, which I study with numerical simulations and 
-#           spacecraft observations. I enjoy sharing what I do and learn, that is what motivated 
-#           me to make this website, that I’ll try to keep updated as much as possible.
-#           You will find here informations related to my work, including my research (topics, papers, talks, projects, etc.)
+   - block: about.avatar
+     id: about
+     content:
+       # Choose a user profile to display (a folder name within `content/authors/`)
+       username: admin
+       # Override your bio text from `authors/admin/_index.md`?
+      #text: I am a researcher at CNRS working at the Laboratory of Plasma Physics (LPP), in 
+      #      Palaiseau, France. My field of research is space plasma physics, and in particular the
+      #      phenomenon of Magnetic Reconnection, which I study with numerical simulations and 
+      #      spacecraft observations. I enjoy sharing what I do and learn, that is what motivated 
+      #      me to make this website, that I’ll try to keep updated as much as possible.
+      #      You will find here informations related to my work, including my research (topics, papers, talks, projects, etc.)
 # - block: features
 #   content:
 #     title: Skills
