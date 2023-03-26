@@ -5,28 +5,28 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
-    content:
-      title: Nicolas Aunai
-      image:
-        filename: hero-academic.png
-      cta:
-        label: '**Get Started**'
-        url: https://nicolasaunai.github.io
-      #cta_alt:
-      #  label: Ask a question
-      #  url: https://discord.gg/z8wNYzb
-      #cta_note:
-      #  label: >-
-      #    <div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Wowchemy Website Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
-      text: |-
-        **Welcome!**
+ #- block: hero
+ #  content:
+ #    title: Nicolas Aunai
+ #    image:
+ #      filename: hero-academic.png
+ #    cta:
+ #      label: '**Get Started**'
+ #      url: https://nicolasaunai.github.io
+ #    #cta_alt:
+ #    #  label: Ask a question
+ #    #  url: https://discord.gg/z8wNYzb
+ #    #cta_note:
+ #    #  label: >-
+ #    #    <div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Wowchemy Website Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
+ #    text: |-
+ #      **Welcome!**
 
-    design:
-      background:
-        gradient_end: '#1976d2'
-        gradient_start: '#004ba0'
-        text_color_light: true
+ #  design:
+ #    background:
+ #      gradient_end: '#1976d2'
+ #      gradient_start: '#004ba0'
+ #      text_color_light: true
   - block: about.avatar
     id: about
     content:
