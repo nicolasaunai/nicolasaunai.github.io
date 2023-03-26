@@ -27,11 +27,11 @@ sections:
         that is what motivated me to make this website, that I’ll try to keep updated as much as possible.
         You will find here informations related to my work, including my research (topics, papers, talks, projects, etc.)
 
-#   design:
-#     background:
-#       gradient_end: '#1976d2'
-#       gradient_start: '#004ba0'
-#       text_color_light: true
+    design:
+      background:
+        gradient_end: '#1976d2'
+        gradient_start: '#004ba0'
+        text_color_light: true
 # - block: about.avatar
 #   id: about
 #   content:
