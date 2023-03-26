@@ -2,7 +2,7 @@
 # Leave the homepage title empty to use the site title
 title: Nicolas Aunai
 date: 2022-10-24
-type: landing_page
+type: landing
 headless: true
 
 sections:
