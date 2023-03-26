@@ -76,7 +76,7 @@ email: ''
 highlight_name: true
 ---
 
-** About me**
+**About me**
 
 I am a researcher at CNRS working at the Laboratory of
 Plasma Physics (LPP), in Palaiseau, France. My field of
@@ -89,7 +89,7 @@ possible. You will find here informations related to my work,
 including my research (topics, papers, talks, projects, etc.).
 
 
-** Open source projects **
+**Open source projects**
 
-* [PHARE](https://github.com/PHAREHUB/PHARE):AMR Hybrid Particle-In-Cell code
-* [SciQLOP](https://github.com/Sciqlop):Efficient app for browsing, labeling, in situ spacecraft data
+* [PHARE](https://github.com/PHAREHUB/PHARE): AMR Hybrid Particle-In-Cell code
+* [SciQLOP](https://github.com/Sciqlop): Efficient app for browsing, labeling, in situ spacecraft data

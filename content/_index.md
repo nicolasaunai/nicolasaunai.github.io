@@ -30,6 +30,8 @@ sections:
  #      text_color_light: true
    - block: about.avatar
      id: about
+     design:
+        columns: '2'
      content:
        # Choose a user profile to display (a folder name within `content/authors/`)
        username: admin
