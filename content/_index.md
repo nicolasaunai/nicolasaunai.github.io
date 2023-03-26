@@ -21,24 +21,24 @@ sections:
       #    <div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Wowchemy Website Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
       text: |-
         **Welcome!**
-        I am a researcher at CNRS working at the Laboratory of Plasma Physics (LPP), in Palaiseau, France.
-        My field of research is space plasma physics, and in particular the phenomenon of Magnetic Reconnection,
-        which I study with numerical simulations and spacecraft observations. I enjoy sharing what I do and learn,
-        that is what motivated me to make this website, that I’ll try to keep updated as much as possible.
-        You will find here informations related to my work, including my research (topics, papers, talks, projects, etc.)
 
     design:
       background:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
-# - block: about.avatar
-#   id: about
-#   content:
-#     # Choose a user profile to display (a folder name within `content/authors/`)
-#     username: admin
-#     # Override your bio text from `authors/admin/_index.md`?
-#     text:
+  - block: about.avatar
+    id: about
+    content:
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
+      # Override your bio text from `authors/admin/_index.md`?
+      text: I am a researcher at CNRS working at the Laboratory of Plasma Physics (LPP), in 
+            Palaiseau, France. My field of research is space plasma physics, and in particular the
+            phenomenon of Magnetic Reconnection, which I study with numerical simulations and 
+            spacecraft observations. I enjoy sharing what I do and learn, that is what motivated 
+            me to make this website, that I’ll try to keep updated as much as possible.
+            You will find here informations related to my work, including my research (topics, papers, talks, projects, etc.)
 # - block: features
 #   content:
 #     title: Skills
