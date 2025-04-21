@@ -24,7 +24,7 @@ I’m interested in astrophysical plasma physics. Although I spend most of my ti
 ### PhD Students
 - 2024 - 2026 : [[Ulysse Caromel]]
 - 2023 - 2026 : [[Ambre Ghisalberti]]
-- 2020 - 2024 : [Bayane Michotte de Welle](https://theses.hal.science/tel-04661957)
+- 2020 - 2024 : [[Bayane Michotte de Welle]]
 - 2017 - 2021 : [Gautier Nguyen](https://theses.hal.science/tel-03198435)
 - 2014 - 2017 : [Jérémy Dargent](https://theses.hal.science/tel-01795033/)
 
