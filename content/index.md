@@ -1,5 +1,5 @@
 ---
-title: Nicolas Aunai
+title: Welcome
 ---
 
 Researcher at CNRS/[Laboratory of Plasma Physics](https://www.lpp.polytechnique.fr)
