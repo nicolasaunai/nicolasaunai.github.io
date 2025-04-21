@@ -10,7 +10,7 @@ I’m interested in astrophysical plasma physics. Although I spend most of my ti
 
 ### 🚀 Ongoing Projects
 
-- 💫 [PHARE](https://github.com/PHAREHUB/PHARE) : AMR Hybrid PIC code
+- 💫 [[PHARE]] Plasma Numerical Simulations
 - 🛰️ [SciQLOP](https://github.com/SciQLop) : In situ spacecraft visualization and analysis tools
 
 ### ✏️ Publications
