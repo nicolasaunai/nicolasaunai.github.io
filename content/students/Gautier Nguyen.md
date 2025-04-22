@@ -10,6 +10,9 @@ tags:
 
 ## Our work
 Gautier started to work with me for his PhD thesis in 2017 and pioneered with me the use of machine learning methods for detecting signatures in satellite in situ data. These signatures are often very variable from one event to the other and thus hard to find automatically with explicit set of rules.
+
+[Download Gautier Nguyen's thesis]((https://theses.hal.science/tel-03198435))
+
 ### Detecting ICMEs
 Interplanetary Coronal Mass Ejections are major plasma and magnetic field structures propagating from the Sun towards the outer heliosphere, sometimes hitting our magnetosphere along the way. Major ones are easily spotted visually in data through their strong and slowly rotating magnetic field, often preceded by a turbulent magnetosheath and a shock wave. However, many are not so easy to spot because many typical features are either missing or very different from their textbook counterpart.
 Our first work during Gautier's PhD was a proof of concept for machine learning automatic event detection, applied to the detection of ICMEs in Wind data. This work was published in Astrophysical Journal

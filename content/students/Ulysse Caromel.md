@@ -8,6 +8,8 @@ tags:
 ## Context
 - 2024 : Master 2 internship Applied Mathematics Rennes
 - 2024 - 2027 : PhD Thesis
+### Funding
+Ulysse Caromel's PhD has been funded by the [CIEDS](https://www.ip-paris.fr/cieds).
 
 ## Our work
 Since April 2024, Ulysse works with me on developing the code [[PHARE]]. Ulysse is in charge on developing the MHD model in the code and merge it as one of the available models in the "multiphysics integrator" of [[PHARE]].

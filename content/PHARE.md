@@ -5,10 +5,11 @@ title: PHARE
 TODO
 
 ## Github
-- (https://github.com/PHAREHUB/PHARE)
+- https://github.com/PHAREHUB/PHARE
 
 ## Collaborators
 - Roch Smets
+- Andrea Ciardi
 - [[Philip Deegan]]
 - [[Ulysse Caromel]]
 - [[Thibault Payet]]

@@ -25,8 +25,8 @@ I’m interested in astrophysical plasma physics. Although I spend most of my ti
 - 2024 - 2026 : [[Ulysse Caromel]]
 - 2023 - 2026 : [[Ambre Ghisalberti]]
 - 2020 - 2024 : [[Bayane Michotte de Welle]]
-- 2017 - 2021 : [Gautier Nguyen](https://theses.hal.science/tel-03198435)
-- 2014 - 2017 : [Jérémy Dargent](https://theses.hal.science/tel-01795033/)
+- 2017 - 2021 : [[Gautier Nguyen]]
+- 2014 - 2017 : [[Jérémy Dargent]]
 
 ### Master 2 interns
 - 2024 : [[Ulysse Caromel]] (M2 Mathématiques Appliquées de Rennes)
@@ -50,6 +50,6 @@ I’m interested in astrophysical plasma physics. Although I spend most of my ti
 
 
 
-## Opportunities
+## Job Opportunities
 
 - None at the moment
