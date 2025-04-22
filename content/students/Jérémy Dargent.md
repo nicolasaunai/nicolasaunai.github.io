@@ -29,9 +29,9 @@ Jeremy finally made a massive fully-kinetic PIC simulation to investigate how re
 
 
 > [!Citations]+
-> [@2017JGRA..122.5290D](https://ui.adsabs.harvard.edu/abs/2017JGRA..122.5290D)
-> [@2019JGRA..124.2497D](https://ui.adsabs.harvard.edu/abs/2019JGRA..124.2497D)
-> [@2020GeoRL..4786546D](https://ui.adsabs.harvard.edu/abs/2020GeoRL..4786546D)
+> - [@2017JGRA..122.5290D](https://ui.adsabs.harvard.edu/abs/2017JGRA..122.5290D)
+> - [@2019JGRA..124.2497D](https://ui.adsabs.harvard.edu/abs/2019JGRA..124.2497D)
+> - [@2020GeoRL..4786546D](https://ui.adsabs.harvard.edu/abs/2020GeoRL..4786546D)
 
 ## After
 After his PhD Jeremy continued research at Pisa University, Bochum University and LPP again.
