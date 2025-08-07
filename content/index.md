@@ -48,7 +48,8 @@ I’m interested in astrophysical plasma physics. Although I spend most of my ti
 - 2022 : [[Loic Darrieumerlou]] (L3 Physique Fondamentale Orsay)
 - 2015 : [[Bastien Marguet]] (ENS Cachan)
 
-
+## Teaching
+- [[M2IRT HPC Master class]]
 
 ## Job Opportunities
 
