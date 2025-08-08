@@ -14,3 +14,18 @@
 ## Using
 - https://coliru.stacked-crooked.com: simple online compiler
 - https://godbolt.org: a more advanced online compiler
+
+
+# Building C++
+
+- CMake : https://cmake.org
+- CMake learning material: https://cmake.org/getting-started/
+- Meson: an alternative to CMake https://mesonbuild.com
+
+
+# Git
+- Official documentation: https://git-scm.com
+- play online to learn : https://learngitbranching.js.org/?locale=fr_FR
+- Understand git visually: https://marklodato.github.io/visual-git-guide/index-en.html
+- Github documentation : https://docs.github.com/fr/get-started/start-your-journey/hello-world
+- 
