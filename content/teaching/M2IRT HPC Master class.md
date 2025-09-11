@@ -23,6 +23,15 @@
 - https://godbolt.org: a more advanced online compiler
 
 
+# Performance
+- HPC Wiki : https://hpc-wiki.info/hpc/HPC_Wiki
+- Curated listof HPC resources: https://github.com/trevor-vincent/awesome-high-performance-computing?tab=readme-ov-file
+- tutorial on Gprof: https://hpc-wiki.info/hpc/Gprof_Tutorial
+- Using perf : https://www.brendangregg.com/perf.html
+- perf wiki : https://perfwiki.github.io/main/
+- Computer science from the bottom up : https://www.bottomupcs.com
+
+
 # Git
 - Official documentation: https://git-scm.com
 - play online to learn : https://learngitbranching.js.org/?locale=fr_FR
