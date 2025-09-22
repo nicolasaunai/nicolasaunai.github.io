@@ -2,7 +2,7 @@
 # Lectures
 
 - Sept. 12nd 2025 : [[week1.pdf]]
-- Sept. 19th 2026 : week2.pdf
+- Sept. 19th 2026 : [[week2.pdf]] 
 - 
 # Resources
 ## Learning C++
