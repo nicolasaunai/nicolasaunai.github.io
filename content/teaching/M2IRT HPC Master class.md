@@ -4,6 +4,8 @@
 - Sept. 12nd 2025 : [[week1.pdf]]
 - Sept. 19th 2025 : [[week2.pdf]] 
 - Sept. 26th 2025 : no slides - coding
+- Oct. 3rd 2025 : [[week4.pdf]]
+- 
 # Resources
 ## Learning C++
 
