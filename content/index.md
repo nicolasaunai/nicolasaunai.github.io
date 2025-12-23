@@ -11,7 +11,7 @@ I’m interested in astrophysical plasma physics. Although I spend most of my ti
 ### 🚀 Ongoing Projects
 
 - 💫 [[PHARE]] Plasma Numerical Simulations
-- 🛰️ [SciQLOP](https://github.com/SciQLop) : In situ spacecraft visualization and analysis tools
+- 🛰️ [SciQLOP](https://sciqlop.github.io) : In situ spacecraft visualization and analysis tools
 
 ### ✏️ Publications
 
