@@ -20,9 +20,20 @@ I’m interested in astrophysical plasma physics. Although I spend most of my ti
 
 ### 📣 Science meetings
 
+#### Recostat workshops
+
+RecoStat (Reconnection and Statistics) workshops are small (~15 scientists) full-week workshops dedicated primarily on studies of magnetic reconnection with in situ observations from a statistical point of view. 
+
 - [[RecoStat Workshop 2024]] 
+- [[RecoStat Workshop 2023]]
 - [[RecoStat Workshop 2022]]
+
+#### Numerical plasmas
+
 - [[LPP numerical plasma workshop]]
+
+#### SciQLOP workshops
+
 - [[Workshlops]] - Workshops of the SciQLOP users
 
 
