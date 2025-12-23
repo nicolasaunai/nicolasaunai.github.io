@@ -18,6 +18,14 @@ I’m interested in astrophysical plasma physics. Although I spend most of my ti
 - [Here](https://ui.adsabs.harvard.edu/search/filter_property_fq_property=AND&filter_property_fq_property=property%3A%22refereed%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&fq_property=(property%3A%22refereed%22)&q=%20author%3A%22aunai%2C%20N.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0) is an exhaustive list of my refereed publications
 - [Google Scholar profile](https://scholar.google.com/citations?user=40Ayqa8AAAAJ&hl=en&oi=sra)
 
+### 📣 Science meetings
+
+- [[RecoStat Workshop 2024]] 
+- [[RecoStat Workshop 2022]]
+- [[LPP numerical plasma workshop]]
+- [[Workshlops]] - Workshops of the SciQLOP users
+
+
 ## 👨‍🎓 Supervision
 ### Postdocs
 - 2025 - : [[Ivan Girault]]
