@@ -104,7 +104,6 @@ The trip may be seem a bit complicated.
 ![[IMG_20240327_103856.jpg]]
 
 - The seminar room is equipped for ~15 people. 
-- Wifi is sometimes not very reliable: **bring your ethernet adapter** 
 
 ### The Houses
 There are 5 fully-equipped houses with 3 bedroom each. They are mostly the same.
@@ -113,40 +112,6 @@ There are 5 fully-equipped houses with 3 bedroom each. They are mostly the same.
 <img width="433" alt="image" src="https://github.com/RecoStat/.github/assets/3200931/b1fcc5f7-a8e7-4568-a77e-21b073b189a2">
 <img width="441" alt="image" src="https://github.com/RecoStat/.github/assets/3200931/90a0e315-335a-4c3e-a223-25df4550b7f5">
 <img width="446" alt="image" src="https://github.com/RecoStat/.github/assets/3200931/bbb1e1d1-2bba-4f42-9dcd-675e8bdcb79a">
-<img width="444" alt="image" src="https://github.com/RecoStat/.github/assets/3200931/5aff1081-d1a6-4034-b78c-217318208910">
-
-
-
-
-## Reading list
-
-Below are a selection of papers related to the topic of the workshop.
-
-### X-lines and Observations
-
-- Hoshi, Y., Hasegawa, H., & of, N. K. J. (2018). Seasonal and Solar Wind Control of the Reconnection Line Location on the Earth’s Dayside Magnetopause. Journal of Geophysical Research Space. https://doi.org/10.1029/2018ja025305
-- Fuselier, S. A., K. J. Trattner, S. M. Petrinec, K. R. Pritchard, J. L. Burch, P. A. Cassak, B. L. Giles, B. Lavraud, R. J. Strangeway, Stationarity of the reconnection X-line at Earth’s magnetopause for southward IMF, J. Geophys. Res., 124, 8524-8534, [https://doi.org/10.1029/2019JA027143](https://doi.org/10.1029/2019JA027143), 2019.
-- Trattner, K. J., Petrinec, S. M. & Fuselier, S. ~A. The Location of Magnetic Reconnection at Earth’s Magnetopause. [Space Science Reviews 217, 1–47 (2021)](https://link.springer.com/article/10.1007/s11214-021-00817-8).
-- Petrinec, S. M., Burch, J. L., Fuselier, S. A., Trattner, K. J., Giles, B. L., & Strangeway, R. J. (2022). On the occurrence of magnetic reconnection along the terrestrial magnetopause, using Magnetospheric Multiscale (MMS) observations in proximity to the reconnection site. Journal of Geophysical Research: Space Physics, 127, e2021JA029669. [https://doi.org/10.1029/2021JA029669](https://doi.org/10.1029/2021JA029669)
-
-### local simulations and X-line orientation
-- Hesse, M., Aunai, N., Zenitani, S., Kuznetsova, M., & Birn, J. (2013). Aspects of collisionless magnetic reconnection in asymmetric systems. Phys Plasmas, 20(6), 1210. [https://doi.org/10.1063/1.4811467](https://doi.org/10.1063/1.4811467)
-- Aunai, N., Hesse, M., Lavraud, B., Dargent, J., & Smets, R. (2016). Orientation of the X-line in asymmetric magnetic reconnection. Journal of Plasma Physics, 82(4), 535820401. [https://doi.org/10.1017/s0022377816000647](https://doi.org/10.1017/s0022377816000647)
-- Liu, Y.-H., Hesse, M., Li, T. C., Kuznetsova, M., & Le, A. (2018). Orientation and Stability of Asymmetric Magnetic Reconnection X Line. Journal of Geophysical Research (Space Physics), 123(6), 4908–4920. [https://doi.org/10.1029/2018ja025410](https://doi.org/10.1029/2018ja025410)
-
-### X-line and reconnection theory
-- Hesse, M., Forbes, T. G., & Birn, J. (2005). On the Relation between Reconnected Magnetic Flux and Parallel Electric Fields in the Solar Corona. The Astrophysical Journal, 631(2), 1227–1238. [https://doi.org/10.1086/432677](https://doi.org/10.1086/432677)
-
-### Global MHD and separators
-- Komar, C. M., Cassak, P. ~A., Dorelli, J. ~C., Glocer, A., & Kuznetsova, M. ~M. (2013). Tracing magnetic separators and their dependence on IMF clock angle in global magnetospheric simulations. Journal of Geophysical Research (Space Physics), 118(8), 4998–5007. [https://doi.org/10.1002/jgra.50479](https://doi.org/10.1002/jgra.50479)
-- Glocer, A., Dorelli, J., Toth, G., Komar, C. M., & Cassak, P. ~A. (2016). Separator reconnection at the magnetopause for predominantly northward and southward IMF: Techniques and results. Journal of Geophysical Research (Space Physics), 121(1), 140–156. [https://doi.org/10.1002/2015ja021417](https://doi.org/10.1002/2015ja021417)
-
-### X-line spreading
-- Arencibia, M., Cassak, P. ~A., Shay, M. ~A., & Priest, E. ~R. (2021). Scaling theory of three-dimensional magnetic reconnection spreading. Physics of Plasmas, 28(8), 082104. [https://doi.org/10.1063/5.0052189](https://doi.org/10.1063/5.0052189)
-- Walsh, B. M., Welling, D. T., Zou, Y., & Nishimura, Y. (2018). A Maximum Spreading Speed for Magnetopause Reconnection. Geophysical Research Letters, 45(1), 5268–5273. https://doi.org/10.1029/2018gl078230
-  
-
-
 
 
 ## Funding

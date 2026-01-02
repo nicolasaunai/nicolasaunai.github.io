@@ -10,8 +10,9 @@ I’m interested in astrophysical plasma physics. Although I spend most of my ti
 
 ### 🚀 Ongoing Projects
 
-- 💫 [[PHARE]] Plasma Numerical Simulations
+- 💫 [[PHARE]] : Adaptive Mesh and Model Refinement for astroplasma physics modeling
 - 🛰️ [SciQLOP](https://sciqlop.github.io) : In situ spacecraft visualization and analysis tools
+- 🥭 [MANGO](https://github.com/LaboratoryOfPlasmaPhysics/mango): Magnetospheric Atlas of Normalized Geospace Observations
 
 ### ✏️ Publications
 
@@ -24,6 +25,7 @@ I’m interested in astrophysical plasma physics. Although I spend most of my ti
 
 RecoStat (Reconnection and Statistics) workshops are small (~15 scientists) full-week workshops dedicated primarily on studies of magnetic reconnection with in situ observations from a statistical point of view. 
 
+- [[RecoStat Workshop 2026]] 
 - [[RecoStat Workshop 2024]] 
 - [[RecoStat Workshop 2023]]
 - [[RecoStat Workshop 2022]]
