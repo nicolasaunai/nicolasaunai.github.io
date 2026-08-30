@@ -43,6 +43,7 @@ RecoStat (Reconnection and Statistics) workshops are small (~15 scientists) full
 ### Postdocs
 - 2025 - : [[Ivan Girault]]
 ### PhD Students
+- 2026 - 2029 : [[Ewan Bataille]]
 - 2024 - 2026 : [[Ulysse Caromel]]
 - 2023 - 2026 : [[Ambre Ghisalberti]]
 - 2020 - 2024 : [[Bayane Michotte de Welle]]
