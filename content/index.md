@@ -62,6 +62,7 @@ RecoStat (Reconnection and Statistics) workshops are small (~15 scientists) full
 - 2014 : [[Jérémy Cassier]] (M2 Astrophysique de Toulouse)
 
 ### Master 1 interns
+- 2026 : [[Guillaume Goczol]] (M1 SOAC, Université Claude Bernard Lyon 1)
 - 2024 : [[Martin Baptiste]] (M1 Physique Appliquée Université Paris Saclay)
 - 2021 : [[Ambre Ghisalberti]] (Césure Supaero)
 
