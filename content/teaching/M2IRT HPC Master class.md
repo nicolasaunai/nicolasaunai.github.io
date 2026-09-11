@@ -1,7 +1,7 @@
 
 # Lectures
 
-- Sept. 12nd 2025 : [[435f319cd4d8.pdf|Slides]]
+- Sept. 12nd 2025 : [[session_1.pdf|Slides]]
 - Sept. 19th 2025 : [[a63c3d416e0b.pdf|Slides]] 
 - Sept. 26th 2025 : no slides - coding
 - Oct. 3rd 2025 : [[7d9c2580b4ad.pdf|Slides]]
