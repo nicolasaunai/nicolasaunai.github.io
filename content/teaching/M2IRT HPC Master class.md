@@ -3,10 +3,8 @@
 
 # Lectures
 
-- Sept. 12nd 2025 : [[session_1.pdf|Slides]]
-- Sept. 19th 2025 : [[a63c3d416e0b.pdf|Slides]] 
-- Sept. 26th 2025 : no slides - coding
-- Oct. 3rd 2025 : [[7d9c2580b4ad.pdf|Slides]]
+- [[session_1.pdf|session 1]]
+- [[session_2.pdf|session 2]]
 - 
 # Resources
 ## Learning C++
