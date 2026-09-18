@@ -1,4 +1,6 @@
 
+[assignment 1](https://drive.google.com/drive/folders/1Al2KDP_c99sszds1UDRLHUTE_EGZJk1T?usp=sharing)
+
 # Lectures
 
 - Sept. 12nd 2025 : [[session_1.pdf|Slides]]
