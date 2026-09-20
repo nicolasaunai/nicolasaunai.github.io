@@ -73,6 +73,7 @@ RecoStat (Reconnection and Statistics) workshops are small (~15 scientists) full
 
 ## Teaching
 - [[M2IRT HPC Master class]]
+- [[M2 PPF Plasma Physics and Fusion]]
 
 ## Job Opportunities
 
