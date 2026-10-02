@@ -5,7 +5,7 @@
 
 - [[session_1.pdf|session 1]]
 - [[session_2.pdf|session 2]]
-- 
+- [full course material (2026)](https://ao.lpp.polytechnique.fr/index.php/s/8LkiRHb5Fkigy68)
 # Resources
 ## Learning C++
 
